@@ -20,7 +20,6 @@ conda env create -f TCPP.yaml
 
 # Dataset
 
-The database with docking scores for virtual screening are provided in `data` folder. The fingerprints or the whole database of compounds are provided in `libraries`.
 
 The processed data for training CAVE and TCPP are provided in the corresponding folders. Note that in the TCPP project, the `train.csv`   and  `test.csv`  files in the data folder are used to train the TCPP model, and the test dataset in the test directory should use the files generated in the save directory of the CAVE project.
 
