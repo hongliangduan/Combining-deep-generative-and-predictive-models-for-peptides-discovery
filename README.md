@@ -2,7 +2,7 @@
 
 This is the code for "Combining deep generative and predictive models for peptides discovery" paper.
 
-# Conda Environemt Setup
+# Conda Environment Setup
 
 We use `conda` to install the dependencies for CVAE and TCPP from the provided `CVAE.yaml` and  `TCPP.yaml` file, which can give you the exact python environment we run the code for the paper:
 
