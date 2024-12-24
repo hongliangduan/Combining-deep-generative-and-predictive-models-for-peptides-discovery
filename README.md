@@ -70,3 +70,11 @@ Model training can be started by running the  `train.py`  script.
 test
 
 Model testing can be started by running the  `test.py`  script.
+
+# Model Scalability
+
+Running time of CVAE
+![cvae](https://github.com/user-attachments/assets/005f9a04-c3e9-4f38-ab05-c9039dd4cdae)
+
+Running time of TCPP
+![tcpp](https://github.com/user-attachments/assets/89b3eb89-01d7-463e-a44e-ef00b7fe72f1)
